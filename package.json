@@ -1,9 +1,9 @@
 {
-  "name": "P9-front-end-dashboard",
+  "name": "P12-front-end-dashboard",
   "version": "1.0.0",
-  "description": "Backend for the 9th project of the new path Front-end Developper",
+  "description": "Backend for the 12th project of the path REACT Front-end Developper",
   "main": "index/app.js",
-  "repository": "https://github.com/OpenClassrooms-Student-Center/P9-front-end-dashboard.git",
+  "repository": "https://github.com/Peanuts-83/P12_SportSee_front.git",
   "author": "tdimnet <thomas.dimnet@gmail.com>",
   "license": "MIT",
   "devDependencies": {
