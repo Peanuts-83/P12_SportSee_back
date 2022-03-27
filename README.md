@@ -1,4 +1,4 @@
-# Project 9 - Front-end Dashboard
+# Project 12 - Front-end Dashboard for SportSee
 
 This repo contains all the source code to run the micro API for the sports analytics dashboard SportSee.
 
@@ -48,7 +48,7 @@ Once in the container, run the `yarn dev` command.
 
 ### 4.1 Possible endpoints
 
-This project includes four endpoints that you will be able to use: 
+This project includes four endpoints that you will be able to use:
 
 - `http://localhost:3000/user/${userId}` - retrieves information from a user. This first endpoint includes the user id, user information (first name, last name and age), the current day's score (todayScore) and key data (calorie, macronutrient, etc.).
 - `http://localhost:3000/user/${userId}/activity` - retrieves a user's activity day by day with kilograms and calories.
