@@ -1,5 +1,5 @@
 {
-  "name": "P12-front-end-dashboard",
+  "name": "P12-back-end-dashboard",
   "version": "1.0.0",
   "description": "Backend for the 12th project of the path REACT Front-end Developper",
   "main": "index/app.js",

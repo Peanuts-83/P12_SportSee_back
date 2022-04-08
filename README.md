@@ -1,4 +1,6 @@
-# Project 12 - Front-end Dashboard for SportSee
+[![forthebadge](./uses-node-js.svg)](https://nodejs.org/en/)
+
+# Project 12 - Back-end Dashboard for SportSee
 
 This repo contains all the source code to run the micro API for the sports analytics dashboard SportSee.
 
